@@ -1,4 +1,4 @@
-package guru.springframework.spring5webapp.domain;
+package domain;
 import java.util.Set;
 
 import javax.persistence.*;
